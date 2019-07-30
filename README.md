@@ -1,6 +1,6 @@
 cat 
 rat
 donkey
-hello
+hu
 dog
 
